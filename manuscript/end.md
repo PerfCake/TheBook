@@ -5,13 +5,11 @@
 
 {begin-hanging-paragraphs}
 
-[AE] Eichlerbergmann, Arnošt: Eine gute Freundship, 1923, Hamburg.
-
-{#GTD}
-[DA] Allan, David: _Getting Things Done: The Art of Stress-Free Productivity_, Penguin Books, 2015.
+{#book_ART}
+[IM] Molyneaux, Ian: The Art of Performance Testing, 2nd Edition, O'Reilly Media, 2014.
 
 {end-hanging-paragraphs}
 
 # Acknowledgements
 
-Images designed by Studio TBD.
+The book and its graphics are the original work of the authors.

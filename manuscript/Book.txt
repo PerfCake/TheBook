@@ -23,4 +23,5 @@ ssl-http.md
 dummy-sender.md
 classification.md
 raw-recording.md
+debugging.md
 end.md
