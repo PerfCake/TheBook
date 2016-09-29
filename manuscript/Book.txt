@@ -24,4 +24,5 @@ dummy-sender.md
 classification.md
 raw-recording.md
 debugging.md
+shutdown-period.md
 end.md
